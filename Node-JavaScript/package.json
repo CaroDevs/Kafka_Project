@@ -11,6 +11,10 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "kafkajs": "^2.2.4"
+    "kafkajs": "^2.2.4",
+    "mysql2": "^3.24.6"
+  },
+  "devDependencies": {
+    "@sonar/scan": "^5.0.2"
   }
 }
