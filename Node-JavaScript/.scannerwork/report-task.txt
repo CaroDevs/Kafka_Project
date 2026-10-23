@@ -1,0 +1,6 @@
+projectKey=KafkaJavScript-Andres-Diana
+serverUrl=http://localhost:9000
+serverVersion=26.10.0.133078
+dashboardUrl=http://localhost:9000/dashboard?id=KafkaJavScript-Andres-Diana
+ceTaskId=59121a6c-211d-40e2-a396-2b4df002a03e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=59121a6c-211d-40e2-a396-2b4df002a03e
